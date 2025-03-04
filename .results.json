@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2025-03-04T12:04:19.862Z",
-    "end": "2025-03-04T12:04:20.222Z",
-    "duration": 360
+    "start": "2025-03-04T12:08:15.684Z",
+    "end": "2025-03-04T12:08:16.037Z",
+    "duration": 353
   },
   "tests": [
     {
@@ -69,7 +69,7 @@
     {
       "title": "contains the first initial of the name stored in the 'currentUser' variable",
       "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -143,7 +143,7 @@
     {
       "title": "contains the first initial of the name stored in the 'currentUser' variable",
       "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
